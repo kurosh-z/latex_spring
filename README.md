@@ -44,3 +44,4 @@ import Latex from 'latex-spring'
 </Latex>
 
 ```
+![](example/latex_spring.gif)
